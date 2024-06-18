@@ -7,6 +7,8 @@ declare global {
       locale: string
       getNotes: GetNotes
       readNote: ReadNote
+      writeNote: WriteNote
+      createNote: CreateNote
     }
   }
 }
